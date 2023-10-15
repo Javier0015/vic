@@ -1,0 +1,17 @@
+{
+    "name": "Mi PWA de la UTTT",
+    "short_name": "MusicApp",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "img/logokkotas.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
